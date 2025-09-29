@@ -2,20 +2,20 @@
 class AboutMe final
 {
 public:
-  static const std::string Name() const
+  static std::string Name()
   {
     return "Rajdeep Banik";
   }
-
-  static const std::vector<std::string> Languages() const
+  
+  static std::vector<std::string> Languages()
   {
     return {
       "English",
       "Hindi"
     };
   }
-
-  static const std::vector<std::string> CodingLangues() const
+  
+  static std::vector<std::string> CodingLanguages()
   {
     return {
       "C++",
@@ -28,8 +28,8 @@ public:
       "Solidity"
     };
   }
-
-  static const std::vector<std::string> Skillset() const
+  
+  static std::vector<std::string> Skillset()
   {
     return {
       "Node.js",
@@ -67,7 +67,6 @@ public:
       "Unreal Engine"
     };
   }
-  
 };
 ```
 
