@@ -1,12 +1,10 @@
 name: Widgets
-
 on:
   schedule:
-    - cron: '0 */24 * * *'
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
   push:
     branches:
       - master
-
 jobs:
   publish:
     runs-on: ubuntu-latest
