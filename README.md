@@ -2,20 +2,20 @@
 class AboutMe final
 {
 public:
-  static const std::string Name() const
+  static std::string Name()
   {
     return "Rajdeep Banik";
   }
-
-  static const std::vector<std::string> Languages() const
+  
+  static std::vector<std::string> Languages()
   {
     return {
       "English",
       "Hindi"
     };
   }
-
-  static const std::vector<std::string> CodingLangues() const
+  
+  static std::vector<std::string> CodingLanguages()
   {
     return {
       "C++",
@@ -28,8 +28,8 @@ public:
       "Solidity"
     };
   }
-
-  static const std::vector<std::string> Skillset() const
+  
+  static std::vector<std::string> Skillset()
   {
     return {
       "Node.js",
@@ -67,23 +67,22 @@ public:
       "Unreal Engine"
     };
   }
-  
 };
 ```
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 1 commit to boredom1234/codebase-consolidator
 ⬆️ Pushed 1 commit to boredom1234/boredom1234
 ⬆️ Pushed 1 commit to boredom1234/boredom1234
-⬆️ Pushed 1 commit to boredom1234/boredom1234
-⬆️ Pushed 1 commit to boredom1234/boredom1234
-⬆️ Pushed 1 commit to boredom1234/boredom1234
+⬆️ Pushed 1 commit to boredom1234/codebase-consolidator
+⬆️ Pushed 1 commit to boredom1234/codebase-consolidator
 ```
 ## 🌟 Cool Repos
 ```
 ⭐️ 12 📦 howdoiusekeyboard/SechsMenu
 ⭐️ 1  📦 boredom1234/boredom1234.github.io
+⭐️ 1  📦 boredom1234/notifeye
 ⭐️ 1  📦 boredom1234/pr-review-bot-together
-⭐️ 1  📦 boredom1234/SketchFolio
 ⭐️ 0  📦 boredom1234/1945-Returns
 ```
