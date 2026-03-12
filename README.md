@@ -79,8 +79,8 @@ public:
 ## 🌟 Cool Repos
 ```
 ⭐️ 12 📦 howdoiusekeyboard/SechsMenu
+⭐️ 2  📦 boredom1234/codebase-consolidator
 ⭐️ 1  📦 boredom1234/boredom1234.github.io
-⭐️ 1  📦 boredom1234/codebase-consolidator
 ⭐️ 1  📦 boredom1234/Memorae_Clone
 ⭐️ 1  📦 boredom1234/notifeye
 ```
