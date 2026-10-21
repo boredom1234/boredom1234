@@ -81,8 +81,8 @@ public:
 ## 🌟 Cool Repos
 ```
 ⭐️ 12 📦 howdoiusekeyboard/SechsMenu
+⭐️ 3  📦 boredom1234/esp_desk
 ⭐️ 2  📦 boredom1234/codebase-consolidator
 ⭐️ 2  📦 boredom1234/eco-guardian
-⭐️ 2  📦 boredom1234/esp_desk
 ⭐️ 1  📦 boredom1234/boredom1234.github.io
 ```
